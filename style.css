@@ -1,0 +1,11 @@
+/* FILEPATH: /f:/OneDrive/Documents/Web-Contents/style.css */
+
+/* Set the margin of all elements to 0 */
+* {
+    margin: 0;
+}
+
+/* Set the margin of a specific element to 20 pixels */
+.element {
+    margin: 20px;
+}
